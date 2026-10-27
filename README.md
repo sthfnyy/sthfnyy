@@ -13,15 +13,26 @@
 
 ---
 
-### ✦ Tech Stack ✦
+### ✦ GitHub Stats ✦
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" alt="Minhas tecnologias" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sthfnyy&show_icons=true&theme=tokyonight&title_color=bd93f9&icon_color=bd93f9&border_color=bd93f9&hide_border=false" alt="Estatísticas do GitHub da Sthefany" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthfnyy&layout=compact&langs_count=8&theme=tokyonight&title_color=bd93f9&border_color=bd93f9&hide_border=false" alt="Linguagens mais usadas" />
 
 ---
 
-### ✦ A little about me ✦
+### ✦ Tech Stack & Interests ✦
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux&theme=dark" alt="Tecnologias" />
+
+**🌐 Redes de Computadores** • **💻 Desenvolvimento de Software**
+
+---
+
+### ✦ A Little About Me ✦
 
 🎓 Estudante de tecnologia
+
+🌐 Interessada em Redes de Computadores
 
 🚀 Sempre em busca de novos desafios
 
